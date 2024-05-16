@@ -1,0 +1,22 @@
+LifeCycle of a data Science project
+1. Data Collection Strategy ----> from company side , 3rd party 
+Api's, Survey , Survey
+2. Feature Engineering --> Handling 
+
+Why are they missing values Survey---depression survey
+1. They hsitate to put doen the information 
+2. Survey Informations are not that valid 
+3. men hesitate--Slary 
+4. women hesitate --age
+5. people may have died ---NAN
+
+Data Science Projects --- Dataset Should be Collected fro Multiple Sources
+
+What are te Diffrent Types of missing Data 
+
+Data that Will be Missing
+1) Continous Data --- 
+	*Descrit Continuous type 
+		*age weight 
+2) Categorical Data 
+	Male, Female
